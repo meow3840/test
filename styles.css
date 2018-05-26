@@ -1,0 +1,46 @@
+body{
+	font-family: Helvetica;
+	background-image: url("img/sparkes.jpeg");
+	background-repeat: no-repeat;
+	background-size: 1500px;
+	margin: 100px 50px 100px 50px;
+
+	/* */
+}
+
+.make-blue {
+	color: blue;
+}
+
+#make-purple {
+	color: purple;
+}
+
+.word{
+	padding-left: 20px;
+	padding-right: 20px;
+}
+
+h1 {
+	font-size: 30px;
+	font-weight: bold;
+	color: #1aff1a;
+}
+
+.noivern{
+	width: 300px;
+}
+
+.para{
+	font-weight: 700;
+}
+
+.first-paragraph{
+	text-decoration: underline;
+}
+
+.first-paragraph h1 {
+	font-size: 100px;
+	text-align: center;
+}
+
